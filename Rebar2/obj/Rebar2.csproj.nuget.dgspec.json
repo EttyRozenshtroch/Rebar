@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\User\\Desktop\\הדסים\\C#\\Rebar2\\Rebar2\\Rebar2.csproj": {}
+    "D:\\Users\\User\\Desktop\\הדסים\\C#\\תרגיל Rebar\\Rebar2\\Rebar\\Rebar2\\Rebar2.csproj": {}
   },
   "projects": {
-    "D:\\Users\\User\\Desktop\\הדסים\\C#\\Rebar2\\Rebar2\\Rebar2.csproj": {
+    "D:\\Users\\User\\Desktop\\הדסים\\C#\\תרגיל Rebar\\Rebar2\\Rebar\\Rebar2\\Rebar2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\C#\\Rebar2\\Rebar2\\Rebar2.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Desktop\\הדסים\\C#\\תרגיל Rebar\\Rebar2\\Rebar\\Rebar2\\Rebar2.csproj",
         "projectName": "Rebar2",
-        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\C#\\Rebar2\\Rebar2\\Rebar2.csproj",
+        "projectPath": "D:\\Users\\User\\Desktop\\הדסים\\C#\\תרגיל Rebar\\Rebar2\\Rebar\\Rebar2\\Rebar2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\C#\\Rebar2\\Rebar2\\obj\\",
+        "outputPath": "D:\\Users\\User\\Desktop\\הדסים\\C#\\תרגיל Rebar\\Rebar2\\Rebar\\Rebar2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

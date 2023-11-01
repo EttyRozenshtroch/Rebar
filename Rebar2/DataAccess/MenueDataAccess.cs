@@ -19,7 +19,13 @@ public class MenueDataAccess
         var results = await shkesCollection.FindAsync(_ => true);
         return results.ToList();
     }
-    public async Task<Task> CreateMenue(Shake shake)
+    public async Task<ShakeModel> GetShakeById(string shakeName)
+    {
+        var shkesCollection = ConnectToMongo<ShakeModel>(MenueCollection);
+        var result = await shkesCollection.FindAsync(c => c.Name==shakeName);
+        return result();
+    }
+    public async Task<Task> AddToMeneu(Shake shake)
     {
         var shakesCollection = ConnectToMongo<Shake>(MenueCollection);
         return shakesCollection.InsertOneAsync(shake);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "grTaEAh73siKvn3K8Fo+u/9/doP2E8KFXK+D8tMIhP+P3h1eLjucnCsK/HjxVqe6dByqN982+icqvupPRMQCZw==",
+  "dgSpecHash": "HgZ9h4RDCuhIrUKQwrknJoXaZZrwquH7VV/WIOFKe0aY1nTPo9680wOSPeSvFeHfnHIgWIxa+nAhdfjB1aQf0A==",
   "success": true,
-  "projectFilePath": "D:\\Users\\User\\Desktop\\הדסים\\C#\\Rebar2\\Rebar2\\Rebar2.csproj",
+  "projectFilePath": "D:\\Users\\User\\Desktop\\הדסים\\C#\\תרגיל Rebar\\Rebar2\\Rebar\\Rebar2\\Rebar2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

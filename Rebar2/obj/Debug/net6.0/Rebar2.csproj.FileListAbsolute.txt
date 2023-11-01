@@ -28,3 +28,11 @@ D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\refint\Rebar2
 D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.pdb
 D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.genruntimeconfig.cache
 D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\ref\Rebar2.dll
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.dll
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\refint\Rebar2.dll
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.pdb
