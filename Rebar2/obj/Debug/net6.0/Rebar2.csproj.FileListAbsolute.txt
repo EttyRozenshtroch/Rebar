@@ -1,0 +1,38 @@
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\Rebar2.exe
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\Rebar2.deps.json
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\Rebar2.runtimeconfig.json
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\Rebar2.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\Rebar2.pdb
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\DnsClient.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\SharpCompress.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\Snappier.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\ZstdSharp.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.csproj.CopyComplete
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\refint\Rebar2.dll
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.pdb
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\Rebar2.genruntimeconfig.cache
+D:\Users\User\Desktop\הדסים\C#\Rebar2\Rebar2\obj\Debug\net6.0\ref\Rebar2.dll
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.AssemblyInfo.cs
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.dll
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\refint\Rebar2.dll
+D:\Users\User\Desktop\הדסים\C#\תרגיל Rebar\Rebar2\Rebar\Rebar2\obj\Debug\net6.0\Rebar2.pdb
